@@ -1,0 +1,21 @@
+{
+  "/404/page": "app/404/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/blogs-grid/page": "app/blogs-grid/page.js",
+  "/blog-news/page": "app/blog-news/page.js",
+  "/blogs-details/page": "app/blogs-details/page.js",
+  "/embedded-systems/page": "app/embedded-systems/page.js",
+  "/cyber-security/page": "app/cyber-security/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/faqs/page": "app/faqs/page.js",
+  "/page": "app/page.js",
+  "/iot-cloud-integration/page": "app/iot-cloud-integration/page.js",
+  "/industrial-automation/page": "app/industrial-automation/page.js",
+  "/projects-details/page": "app/projects-details/page.js",
+  "/projects/page": "app/projects/page.js",
+  "/services/page": "app/services/page.js",
+  "/services-details/page": "app/services-details/page.js",
+  "/software-development/page": "app/software-development/page.js"
+}
